@@ -52,7 +52,7 @@ def Save_csv(file, filename):
     cwd = os.getcwd()
     path = os.path.dirname(cwd)
 
-    file_path = path + "\\wrap_data\\data\\"
+    file_path = path + "\\stock\\data\\"
 
     #time_stamp = datetime.datetime.now() - datetime.timedelta(hours=12)
 
